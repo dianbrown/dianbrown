@@ -1,4 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Dian Brown! 👋
+
+🎓 **IT Student @ NWU University**  
+Currently delving into the world of technology and always eager to learn something new.
+
+---
+
+## 🎶 About Me
+
+- 💻 Passionate about **coding**, especially in **Python** and **C++**
+- 🎨 Enjoy creating **pixel art** and exploring web & UI design
+- 🎵 Love making music—creativity fuels my code!
+- 🖥️ PC builder—I've built quite a few and love the process
+- 🚀 Always learning new skills and striving to improve
+
+---
+
+## 🌐 Find Me Online
+
+- 🌍 [My Portfolio Website](https://dianbrown.github.io/Portofolio/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dian-brown-db01)
+
+---
+
+## ⚡ Fun Facts
+
+- I blend art, music, and tech in my creative projects
+- I enjoy experimenting with new web design trends
+- I believe in lifelong learning and sharing knowledge
+
+---
+
+Thanks for stopping by!  
+Feel free to connect or check out my website for more about my work and passions.
 
 <!--
 **dianbrown/dianbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

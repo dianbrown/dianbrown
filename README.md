@@ -32,7 +32,7 @@ Currently delving into the world of technology and always eager to learn somethi
 ## 🌐 Find Me Online
 
 - 🌍 [My Portfolio Website](https://dianbrown.github.io/Portfolio/) <br/><br/>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dianbrown20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dianbrown) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dianbrown20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dian-brown-db01) 
 
 ---
 

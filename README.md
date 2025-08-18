@@ -45,7 +45,7 @@ Currently delving into the world of technology and always eager to learn somethi
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dianbrown&theme=dark&hide_border=false&include_all_commits=false&count_private=false)&nbsp;&nbsp;&ensp;
+![](https://github-readme-stats.vercel.app/api?username=dianbrown&theme=dark&hide_border=false&include_all_commits=false&count_private=true)&nbsp;&nbsp;&ensp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dianbrown&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---

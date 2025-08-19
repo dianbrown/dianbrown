@@ -1,5 +1,9 @@
+<div align="center">
+
 # Hi there, I'm Dian Brown! 👋
 
+</div>
+    
 🎓 **IT Student @ NWU University**  
 Currently delving into the world of technology and always eager to learn something new.
 

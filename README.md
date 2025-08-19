@@ -23,7 +23,7 @@ Currently delving into the world of technology and always eager to learn somethi
 - ✈︎ Drone enthusiast - I like drone photography
 
 ### 🟢 Currently listening to:
-[![Spotify](https://novatorem-eight-kappa.vercel.app/api/spotify)](https://open.spotify.com/user/[hectologic](https://open.spotify.com/user/hectologic?si=81308e569c85421c))
+[![Spotify](https://novatorem-eight-kappa.vercel.app/api/spotify)](https://open.spotify.com/user/hectologic?si=81308e569c85421c)
 
 ---
 

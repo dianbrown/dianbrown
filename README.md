@@ -22,6 +22,8 @@ Currently delving into the world of technology and always eager to learn somethi
 - 🚀 Always learning new skills and striving to improve
 - ✈︎ Drone enthusiast - I like drone photography
 
+[![Spotify](https://novatorem-eight-kappa.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
 ---
 
 ## 💻 Tech Stack:

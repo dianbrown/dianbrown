@@ -45,8 +45,8 @@ Currently delving into the world of technology and always eager to learn somethi
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats-five-kohl-54.vercel.app/api?username=dianbrown&hide=contribs,prs&theme=synthwave&show=prs_merged)&nbsp;&nbsp;&ensp;
-![Top Langs](https://github-readme-stats-five-kohl-54.vercel.app/api/top-langs/?username=dianbrown&hide_progress=true&theme=synthwave)
+![](https://github-readme-stats-five-kohl-54.vercel.app/api?username=dianbrown&hide=contribs,prs&theme=synthwave&show=prs_merged&hide_border=true)&nbsp;&nbsp;&ensp;
+![](https://github-readme-stats-five-kohl-54.vercel.app/api/top-langs/?username=dianbrown&layout=compact&theme=synthwave&hide_border=true)
 
 ---
 

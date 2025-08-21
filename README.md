@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Dian Brown! 👋
+# Hey there, I'm Dian Brown! 👋
 
 </div>
     

@@ -21,8 +21,8 @@ Currently delving into the world of technology and always eager to learn somethi
 
 - 💻 Passionate about **coding**, especially in **Python** and **C++**
 - 🎨 Enjoy creating **pixel art** and exploring web & UI design
-- 🎵 Love making music—creativity fuels my code!
-- 🖥️ PC builder—I've built quite a few and love the process
+- 🎵 Love making music-creativity fuels my code!
+- 🖥️ PC builder-I've built quite a few and love the process
 - 🚀 Always learning new skills and striving to improve
 - ✈︎ Drone enthusiast - I like drone photography
 

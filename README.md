@@ -23,9 +23,29 @@ I'm currently pursuing an MSc in Computer Science at North-West University, cont
 
 ## Tech stack
 
-| Focus | Tools |
-| --- | --- |
-| Web and mobile | Astro, TypeScript, JavaScript, React, React Native, Tailwind CSS |
-| Motion and 3D | GSAP, Three.js, GLSL, Blender |
-| Backend and data | Python, Flask, PostgreSQL, MongoDB |
-| Interface design | Figma |
+### Web and mobile
+
+![Astro](https://img.shields.io/badge/Astro-20232A?style=for-the-badge&logo=astro&logoColor=BC52EE)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+### Motion and 3D
+
+![GSAP](https://img.shields.io/badge/GSAP-20232A?style=for-the-badge&logo=gsap&logoColor=0AE448)
+![Three.js](https://img.shields.io/badge/Three.js-20232A?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)
+![GLSL](https://img.shields.io/badge/GLSL-20232A?style=for-the-badge&logo=opengl&logoColor=5586A4)
+![Blender](https://img.shields.io/badge/Blender-20232A?style=for-the-badge&logo=blender&logoColor=F5792A)
+
+### Backend and data
+
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+### Interface design
+
+![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E)

@@ -1,65 +1,35 @@
-<div align="center">
+# Dian Brown
 
-# Hey there, I'm Dian Brown! 👋
+Design engineer based in South Africa. I build websites and interactive software, bringing together clear interfaces, expressive motion, and real-time 3D.
 
-</div>
-    
-🎓 **IT Student @ NWU University**  
-Currently delving into the world of technology and always eager to learn something new.
+I'm currently pursuing an MSc in Computer Science at North-West University, continuing my [research into classroom attendance using UHF RFID](https://dianbrown.com/projects/uhf-attendance). My background spans Information Technology and Occupational Health Sciences.
 
----
+[Portfolio](https://dianbrown.com) · [Creative lab](https://dianbrown.com/lab) · [LinkedIn](https://linkedin.com/in/dian-brown-db01)
+
+## Selected work
+
+- **[Camellia Collection](https://dianbrown.com/projects/camellia-collection)** — An Astro and React storefront with custom motion, shader effects, authentication, and secure checkout.
+- **[Draf Dag](https://dianbrown.com/projects/draf-dag)** — A charity fun-run campaign website built with Astro, GSAP, and animated SVGs.
+- **[Save a Slot](https://dianbrown.com/projects/save-a-slot)** — A local-first React Native app for appointments, clients, and small-business management.
+- **[Rocky](https://dianbrown.com/projects/rocky)** — An output-compression skill for AI coding agents, backed by a reproducible Python benchmark.
+
+[More projects](https://dianbrown.com/projects)
+
+## Tech stack
+
+| Focus | Tools |
+| --- | --- |
+| Web and mobile | Astro, TypeScript, JavaScript, React, React Native, Tailwind CSS |
+| Motion and 3D | GSAP, Three.js, GLSL, Blender |
+| Backend and data | Python, Flask, PostgreSQL, MongoDB |
+| Interface design | Figma |
+
+## Contributions
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dianbrown/dianbrown/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dianbrown/dianbrown/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dianbrown/dianbrown/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/commitcade/ufo-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/commitcade/ufo-contribution-graph.svg">
+  <img alt="A UFO collecting my GitHub contribution squares" src="assets/commitcade/ufo-contribution-graph.svg" width="100%">
 </picture>
 
----
-
-## 🎶 About Me
-
-- 💻 Passionate about **coding**, especially in **Python** and **C++**
-- 🎨 Enjoy creating **pixel art** and exploring web & UI design
-- 🎵 Love making music-creativity fuels my code!
-- 🖥️ PC builder-I've built quite a few and love the process
-- 🚀 Always learning new skills and striving to improve
-- ✈︎ Drone enthusiast - I like drone photography
-
-### 🟢 Currently listening to:
-[![Spotify](https://novatorem-eight-kappa.vercel.app/api/spotify)](https://open.spotify.com/user/hectologic?si=81308e569c85421c)
-
----
-
-## 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
----
-
-## 🌐 Find Me Online
-
-- 🌍 [My Portfolio Website](https://dianbrown.github.io/Portfolio/) <br/><br/>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dianbrown20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dian-brown-db01) 
-
----
-
-## ⚡ Fun Facts
-
-- I blend art, music, and tech in my creative projects
-- I enjoy experimenting with new web design trends
-- I believe in lifelong learning and sharing knowledge
-
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats-five-kohl-54.vercel.app/api?username=dianbrown&hide=contribs,prs&theme=synthwave&show=prs_merged&hide_border=true)&nbsp;&nbsp;&ensp;
-![](https://github-readme-stats-five-kohl-54.vercel.app/api/top-langs/?username=dianbrown&layout=compact&theme=synthwave&hide_border=true)
-
----
-
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dianbrown) 
-
-Thanks for stopping by!  
-Feel free to connect or check out my website for more about my work and passions.
-
+Generated with [Commitcade](https://github.com/dianbrown/commitcade). Updated daily.
